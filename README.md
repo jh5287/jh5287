@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jh5287
-- 👀 I’m interested in Classical Saxophone, running, and now cs
-- 🌱 I’m currently learning how to play the saxophone better and cs
+- 👋 Hi, my name is Jared!
+- 👀 I’m interested in Classical Saxophone, running, and web development
+- 🌱 I’m currently trying to finish The Odin Project and my degree
 - 💞️ I’m looking to collaborate on something nerdy
 - 📫 How to reach me jaredhrussell2016@gmail.com
 
